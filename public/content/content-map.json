@@ -1,0 +1,1290 @@
+{
+  "modules": [
+    {
+      "id": "00-ton-point-de-depart",
+      "number": "00",
+      "title": "TON POINT DE DÉPART",
+      "description": "Commence ici pour bien comprendre le fonctionnement du Skool !",
+      "level": null,
+      "coverImage": "/content/covers/00.jpg",
+      "totalLessons": 13,
+      "lessons": [
+        {
+          "id": "01-le-mindset-chez-posing-empire",
+          "number": "01",
+          "title": "✊🏼 Le mindset chez POSING EMPIRE",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/01 - ✊🏼 Le mindset chez POSING EMPIRE/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1KnPmybu4Gsjh5_0OSVBgKO-6XMWyk-1l",
+          "textFile": null,
+          "dir": "01 - ✊🏼 Le mindset chez POSING EMPIRE"
+        },
+        {
+          "id": "02-reglement-de-la-communaute-skool",
+          "number": "02",
+          "title": "🙏 Règlement de la communauté Skool",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/02 - 🙏 Règlement de la communauté Skool/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 🙏 Règlement de la communauté Skool"
+        },
+        {
+          "id": "03-road-map-d-onboarding",
+          "number": "03",
+          "title": "🗺️ Road map d’onboarding",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/03 - 🗺️ Road map d’onboarding/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "03 - 🗺️ Road map d’onboarding"
+        },
+        {
+          "id": "04-men-s-physique-clique-ici",
+          "number": "04",
+          "title": "🩳 Men’s Physique Clique ici !",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/04 - 🩳 Men’s Physique Clique ici !/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "04 - 🩳 Men’s Physique Clique ici !"
+        },
+        {
+          "id": "05-classic-physique-clique-ici",
+          "number": "05",
+          "title": "🏛️ Classic Physique Clique ici !",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/05 - 🏛️ Classic Physique Clique ici !/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - 🏛️ Classic Physique Clique ici !"
+        },
+        {
+          "id": "06-bodybuilding-clique-ici",
+          "number": "06",
+          "title": "💪🏼 Bodybuilding Clique ici !",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/06 - 💪🏼 Bodybuilding Clique ici !/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "06 - 💪🏼 Bodybuilding Clique ici !"
+        },
+        {
+          "id": "07-non-competiteur-clique-ici",
+          "number": "07",
+          "title": "❌ Non-compétiteur Clique ici !",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/07 - ❌ Non-compétiteur Clique ici !/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "07 - ❌ Non-compétiteur Clique ici !"
+        },
+        {
+          "id": "08-bonus",
+          "number": "08",
+          "title": "💎 Bonus",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/08 - 💎 Bonus/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1xl9e3KCAv1awmfsH8x75PgZMPwZLQlnE",
+          "textFile": null,
+          "dir": "08 - 💎 Bonus"
+        },
+        {
+          "id": "09-concours-du-best-poser-award",
+          "number": "09",
+          "title": "🏆 Concours du « Best Poser Award »",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/09 - 🏆 Concours du « Best Poser Award »/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1oLY1EvQeLN9ihFqqjMeSw466w7MWrA4l",
+          "textFile": null,
+          "dir": "09 - 🏆 Concours du « Best Poser Award »"
+        },
+        {
+          "id": "10-partager-la-communaute",
+          "number": "10",
+          "title": "🤝🏽 Partager la communauté",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/10 - 🤝🏽 Partager la communauté/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=18lrl1gLDTL12YO2lX35VtLcCM92cUwuf",
+          "textFile": null,
+          "dir": "10 - 🤝🏽 Partager la communauté"
+        },
+        {
+          "id": "11-telecharger-skool-sur-telephone",
+          "number": "11",
+          "title": "📱 Télécharger Skool sur téléphone",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/11 - 📱 Télécharger Skool sur téléphone/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "11 - 📱 Télécharger Skool sur téléphone"
+        },
+        {
+          "id": "12-questionnaire-d-amelioration-du-module",
+          "number": "12",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/12 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "12 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "13-decouvrir-l-accompagnement",
+          "number": "13",
+          "title": "Découvrir l'accompagnement",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/00 - TON POINT DE DÉPART/13 - Découvrir l'accompagnement/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "13 - Découvrir l'accompagnement"
+        }
+      ]
+    },
+    {
+      "id": "01-les-fondations-level-1",
+      "number": "01",
+      "title": "LES FONDATIONS - LEVEL 1",
+      "description": "Ici, tu retrouveras les bases théoriques du posing pour comprendre ce Skool !",
+      "level": 1,
+      "coverImage": "/content/covers/01.jpg",
+      "totalLessons": 11,
+      "lessons": [
+        {
+          "id": "01-le-vocabulaire-du-poseur",
+          "number": "01",
+          "title": "📖 Le vocabulaire du poseur",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/01 - 📖 Le vocabulaire du poseur/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "01 - 📖 Le vocabulaire du poseur"
+        },
+        {
+          "id": "02-questionnaire-d-amelioration-du-module",
+          "number": "02",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/02 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "03-la-methodologie-pour-poser",
+          "number": "03",
+          "title": "⚙️ La méthodologie pour poser",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/03 - ⚙️ La méthodologie pour poser/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1bsV3eoeg1KmckLEZknA-1B2EM6KXpGWX",
+          "textFile": null,
+          "dir": "03 - ⚙️ La méthodologie pour poser"
+        },
+        {
+          "id": "04-organiser-sa-pratique",
+          "number": "04",
+          "title": "🗓️ Organiser sa pratique",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/04 - 🗓️ Organiser sa pratique/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1mEmY3CRaM2-p7X123vu4dX0jiz58MoaP",
+          "textFile": null,
+          "dir": "04 - 🗓️ Organiser sa pratique"
+        },
+        {
+          "id": "05-habitudes-quotidienne-a-apprendre",
+          "number": "05",
+          "title": "🔄 Habitudes quotidienne à apprendre",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/05 - 🔄 Habitudes quotidienne à apprendre/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - 🔄 Habitudes quotidienne à apprendre"
+        },
+        {
+          "id": "06-creer-son-set-up",
+          "number": "06",
+          "title": "📷 Créer son set-up",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/06 - 📷 Créer son set-up/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1GNRD5iQ7m1fDI_YAzcNYIRGAvwg-ITQF",
+          "textFile": null,
+          "dir": "06 - 📷 Créer son set-up"
+        },
+        {
+          "id": "07-choisir-sa-federation",
+          "number": "07",
+          "title": "🧬 Choisir sa fédération",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/07 - 🧬 Choisir sa fédération/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1dKlMK0m5c_9Of-cGFcFwL6LqYk-SRt9i",
+          "textFile": null,
+          "dir": "07 - 🧬 Choisir sa fédération"
+        },
+        {
+          "id": "08-choisir-sa-categorie",
+          "number": "08",
+          "title": "🎯 Choisir sa catégorie",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/08 - 🎯 Choisir sa catégorie/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "08 - 🎯 Choisir sa catégorie"
+        },
+        {
+          "id": "09-la-symetrie",
+          "number": "09",
+          "title": "💎 La symétrie",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/09 - 💎 La symétrie/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "09 - 💎 La symétrie"
+        },
+        {
+          "id": "10-la-sangle-abdominale",
+          "number": "10",
+          "title": "La sangle abdominale",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/10 - La sangle abdominale/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=11PltpSAReIGT9ekU0xKbtKix_zjcq5xp",
+          "textFile": null,
+          "dir": "10 - La sangle abdominale"
+        },
+        {
+          "id": "11-ouvrir-les-dorsaux",
+          "number": "11",
+          "title": "📈 Ouvrir les dorsaux",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/01 - LES FONDATIONS - LEVEL 1/11 - 📈 Ouvrir les dorsaux/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "11 - 📈 Ouvrir les dorsaux"
+        }
+      ]
+    },
+    {
+      "id": "02-bilan-hebdomadaire",
+      "number": "02",
+      "title": "BILAN HEBDOMADAIRE",
+      "description": "Chaque semaine, remplis ton bilan pour recevoir ton plan d'action de la semaine !",
+      "level": null,
+      "coverImage": "/content/covers/02.jpg",
+      "totalLessons": 1,
+      "lessons": [
+        {
+          "id": "01-video-de-presentation",
+          "number": "01",
+          "title": "Vidéo de présentation",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/02 - BILAN HEBDOMADAIRE/01 - Vidéo de présentation/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "01 - Vidéo de présentation"
+        }
+      ]
+    },
+    {
+      "id": "03-classic-body-level-2",
+      "number": "03",
+      "title": "CLASSIC & BODY - LEVEL 2",
+      "description": "Ce module est dédié aux athlètes en catégorie Classic Physique et Bodybuilding !",
+      "level": 2,
+      "coverImage": "/content/covers/03.jpg",
+      "totalLessons": 12,
+      "lessons": [
+        {
+          "id": "01-introduction-classic-body",
+          "number": "01",
+          "title": "⚙️ Introduction – Classic & Body",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/01 - ⚙️ Introduction – Classic & Body/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1lXqf_tKHTwYFR7z8MUVkZGuahUKs4pFc",
+          "textFile": null,
+          "dir": "01 - ⚙️ Introduction – Classic & Body"
+        },
+        {
+          "id": "02-questionnaire-d-amelioration-du-module",
+          "number": "02",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/02 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "03-les-placements-de-jambes",
+          "number": "03",
+          "title": "🦵 Les placements de jambes",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/03 - 🦵 Les placements de jambes/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "03 - 🦵 Les placements de jambes"
+        },
+        {
+          "id": "04-quarts-de-tour-poses",
+          "number": "04",
+          "title": "💎 Quarts de tour – poses",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/04 - 💎 Quarts de tour – poses/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "04 - 💎 Quarts de tour – poses"
+        },
+        {
+          "id": "05-mandatories-poses",
+          "number": "05",
+          "title": "📈 Mandatories – poses",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/05 - 📈 Mandatories – poses/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - 📈 Mandatories – poses"
+        },
+        {
+          "id": "06-most-muscular",
+          "number": "06",
+          "title": "💪🏼 Most muscular",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/06 - 💪🏼 Most muscular/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "06 - 💪🏼 Most muscular"
+        },
+        {
+          "id": "07-classic-poses-poses",
+          "number": "07",
+          "title": "🏛️ Classic poses – poses",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/07 - 🏛️ Classic poses – poses/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "07 - 🏛️ Classic poses – poses"
+        },
+        {
+          "id": "08-transitions",
+          "number": "08",
+          "title": "🔄 Transitions",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/08 - 🔄 Transitions/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "08 - 🔄 Transitions"
+        },
+        {
+          "id": "09-presentation-individuelle",
+          "number": "09",
+          "title": "🕺🏻 Présentation individuelle",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/09 - 🕺🏻 Présentation individuelle/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "09 - 🕺🏻 Présentation individuelle"
+        },
+        {
+          "id": "10-routine-libre",
+          "number": "10",
+          "title": "🎨 Routine libre",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/10 - 🎨 Routine libre/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "10 - 🎨 Routine libre"
+        },
+        {
+          "id": "11-exercices-specifiques-a-la-categorie",
+          "number": "11",
+          "title": "Exercices spécifiques à la catégorie",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/11 - Exercices spécifiques à la catégorie/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "11 - Exercices spécifiques à la catégorie"
+        },
+        {
+          "id": "12-tenue-de-scene",
+          "number": "12",
+          "title": "Tenue de scène",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/03 - CLASSIC & BODY - LEVEL 2/12 - Tenue de scène/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=16SVrYIa98O9xwSENzbBV9EB0FvxxDrS7",
+          "textFile": null,
+          "dir": "12 - Tenue de scène"
+        }
+      ]
+    },
+    {
+      "id": "04-the-classic-class-level-3",
+      "number": "04",
+      "title": "THE CLASSIC CLASS - LEVEL 3",
+      "description": "Le module ultime pour faire de toi le best poseur et avoir une routine de l'enfer !",
+      "level": 3,
+      "coverImage": "/content/covers/04.jpg",
+      "totalLessons": 8,
+      "lessons": [
+        {
+          "id": "01-introduction-the-classic-class",
+          "number": "01",
+          "title": "👨🏼‍🎨 Introduction – The Classic Class",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/04 - THE CLASSIC CLASS - LEVEL 3/01 - 👨🏼‍🎨 Introduction – The Classic Class/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=105_SFIKWFHSsns5ID4ST7iXO9QxGjKmj",
+          "textFile": null,
+          "dir": "01 - 👨🏼‍🎨 Introduction – The Classic Class"
+        },
+        {
+          "id": "02-questionnaire-d-amelioration-du-module",
+          "number": "02",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/04 - THE CLASSIC CLASS - LEVEL 3/02 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "03-les-lunging",
+          "number": "03",
+          "title": "Les lunging",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/04 - THE CLASSIC CLASS - LEVEL 3/03 - Les lunging/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "03 - Les lunging"
+        },
+        {
+          "id": "04-front-poses",
+          "number": "04",
+          "title": "Front poses",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/04 - THE CLASSIC CLASS - LEVEL 3/04 - Front poses/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "04 - Front poses"
+        },
+        {
+          "id": "05-side-34-poses",
+          "number": "05",
+          "title": "Side & 34 poses",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/04 - THE CLASSIC CLASS - LEVEL 3/05 - Side & 34 poses/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - Side & 34 poses"
+        },
+        {
+          "id": "06-back-poses",
+          "number": "06",
+          "title": "Back poses",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/04 - THE CLASSIC CLASS - LEVEL 3/06 - Back poses/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "06 - Back poses"
+        },
+        {
+          "id": "07-poses-specifiques",
+          "number": "07",
+          "title": "🪽 Poses spécifiques",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/04 - THE CLASSIC CLASS - LEVEL 3/07 - 🪽 Poses spécifiques/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "07 - 🪽 Poses spécifiques"
+        },
+        {
+          "id": "08-les-transitions-artistiques",
+          "number": "08",
+          "title": "Les transitions artistiques",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/04 - THE CLASSIC CLASS - LEVEL 3/08 - Les transitions artistiques/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "08 - Les transitions artistiques"
+        }
+      ]
+    },
+    {
+      "id": "05-men-s-physique-level-2",
+      "number": "05",
+      "title": "MEN’S PHYSIQUE - LEVEL 2",
+      "description": "Dans ce module dédié aux Men's Physique, nous verrons : poses, transitions, I-Walk…",
+      "level": 2,
+      "coverImage": "/content/covers/05.jpg",
+      "totalLessons": 5,
+      "lessons": [
+        {
+          "id": "01-introduction-men-s-physique",
+          "number": "01",
+          "title": "Introduction – Men’s Physique 🩳",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/05 - MEN’S PHYSIQUE - LEVEL 2/01 - Introduction – Men’s Physique 🩳/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1c8UFbSiQvED2R0_a1W7DICRDDcG48hz3",
+          "textFile": null,
+          "dir": "01 - Introduction – Men’s Physique 🩳"
+        },
+        {
+          "id": "02-questionnaire-d-amelioration-du-module",
+          "number": "02",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/05 - MEN’S PHYSIQUE - LEVEL 2/02 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "03-ls-poses",
+          "number": "03",
+          "title": "Ls poses 💎",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/05 - MEN’S PHYSIQUE - LEVEL 2/03 - Ls poses 💎/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "03 - Ls poses 💎"
+        },
+        {
+          "id": "04-les-transitions",
+          "number": "04",
+          "title": "🔃 Les transitions",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/05 - MEN’S PHYSIQUE - LEVEL 2/04 - 🔃 Les transitions/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "04 - 🔃 Les transitions"
+        },
+        {
+          "id": "05-presentation-individuelle",
+          "number": "05",
+          "title": "📈 Présentation individuelle",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/05 - MEN’S PHYSIQUE - LEVEL 2/05 - 📈 Présentation individuelle/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - 📈 Présentation individuelle"
+        }
+      ]
+    },
+    {
+      "id": "06-competition-level-4",
+      "number": "06",
+      "title": "COMPÉTITION - LEVEL 4",
+      "description": "Ce module va faire de toi un athlète du top 1% !",
+      "level": 4,
+      "coverImage": "/content/covers/06.jpg",
+      "totalLessons": 17,
+      "lessons": [
+        {
+          "id": "01-introduction-competition",
+          "number": "01",
+          "title": "Introduction – Compétition 🏆",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/01 - Introduction – Compétition 🏆/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1CSdL2K-ux1DCW750R1WX5i20yKtXl_Dw",
+          "textFile": null,
+          "dir": "01 - Introduction – Compétition 🏆"
+        },
+        {
+          "id": "02-questionnaire-d-amelioration-du-module",
+          "number": "02",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/02 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "03-le-deroulement-d-une-competition",
+          "number": "03",
+          "title": "Le déroulement d’une compétition 🔎",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/03 - Le déroulement d’une compétition 🔎/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1Y1_vfqvoDZz6srZ-YP1jOig4F_ASJCTa",
+          "textFile": null,
+          "dir": "03 - Le déroulement d’une compétition 🔎"
+        },
+        {
+          "id": "04-attitude-scenique",
+          "number": "04",
+          "title": "Attitude scénique 🕺🏻",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/04 - Attitude scénique 🕺🏻/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=12AU6cFby8dMd_BwNm-WtD2oIBHcT7lLW",
+          "textFile": null,
+          "dir": "04 - Attitude scénique 🕺🏻"
+        },
+        {
+          "id": "05-comment-respirer-sur-scene",
+          "number": "05",
+          "title": "Comment respirer sur scène 💨",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/05 - Comment respirer sur scène 💨/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1upwFvwxx_77qXxDs6HQl5dvfF0w6r2YC",
+          "textFile": null,
+          "dir": "05 - Comment respirer sur scène 💨"
+        },
+        {
+          "id": "06-pump-pre-stage",
+          "number": "06",
+          "title": "Pump pré-stage 💪🏼",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/06 - Pump pré-stage 💪🏼/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "06 - Pump pré-stage 💪🏼"
+        },
+        {
+          "id": "07-mises-en-relation",
+          "number": "07",
+          "title": "Mises en relation",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/07 - Mises en relation/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "07 - Mises en relation"
+        },
+        {
+          "id": "08-ocb",
+          "number": "08",
+          "title": "OCB",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/08 - OCB/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "08 - OCB"
+        },
+        {
+          "id": "09-npc",
+          "number": "09",
+          "title": "NPC",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/09 - NPC/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "09 - NPC"
+        },
+        {
+          "id": "10-ifbb",
+          "number": "10",
+          "title": "IFBB",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/10 - IFBB/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "10 - IFBB"
+        },
+        {
+          "id": "11-acp",
+          "number": "11",
+          "title": "ACP",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/11 - ACP/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "11 - ACP"
+        },
+        {
+          "id": "12-ffcn",
+          "number": "12",
+          "title": "FFCN",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/12 - FFCN/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "12 - FFCN"
+        },
+        {
+          "id": "13-pca",
+          "number": "13",
+          "title": "PCA",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/13 - PCA/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "13 - PCA"
+        },
+        {
+          "id": "14-nbfi",
+          "number": "14",
+          "title": "NBFI",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/14 - NBFI/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "14 - NBFI"
+        },
+        {
+          "id": "15-wabba",
+          "number": "15",
+          "title": "WABBA",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/15 - WABBA/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "15 - WABBA"
+        },
+        {
+          "id": "16-afbbn",
+          "number": "16",
+          "title": "AFBBN",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/16 - AFBBN/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "16 - AFBBN"
+        },
+        {
+          "id": "17-wnbf",
+          "number": "17",
+          "title": "WNBF",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/06 - COMPÉTITION - LEVEL 4/17 - WNBF/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "17 - WNBF"
+        }
+      ]
+    },
+    {
+      "id": "07-mobilite-activation",
+      "number": "07",
+      "title": "MOBILITÉ & ACTIVATION",
+      "description": "Exercices de mobilité, d'étirements et de massages pour résoudre tes blocages !",
+      "level": null,
+      "coverImage": "/content/covers/07.jpg",
+      "totalLessons": 15,
+      "lessons": [
+        {
+          "id": "01-introduction-mobilite-activation",
+          "number": "01",
+          "title": "Introduction - Mobilité & activation 🛠️",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/01 - Introduction - Mobilité & activation 🛠️/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1ipV8FAUs_AqmzfnqSjRkuaje5VBWaAei",
+          "textFile": null,
+          "dir": "01 - Introduction - Mobilité & activation 🛠️"
+        },
+        {
+          "id": "02-questionnaire-d-amelioration-du-module",
+          "number": "02",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/02 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "03-echauffement-posing-session",
+          "number": "03",
+          "title": "Échauffement - Posing session ⚙️",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/03 - Échauffement - Posing session ⚙️/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=17BJmIYRnb7vT-GkaKc0xtHZMm_KhTfdJ",
+          "textFile": null,
+          "dir": "03 - Échauffement - Posing session ⚙️"
+        },
+        {
+          "id": "04-mobilite-de-hanche",
+          "number": "04",
+          "title": "Mobilité de hanche",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/04 - Mobilité de hanche/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "04 - Mobilité de hanche"
+        },
+        {
+          "id": "05-bassin",
+          "number": "05",
+          "title": "Bassin",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/05 - Bassin/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - Bassin"
+        },
+        {
+          "id": "06-mobilite-de-colonne",
+          "number": "06",
+          "title": "Mobilité de colonne",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/06 - Mobilité de colonne/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "06 - Mobilité de colonne"
+        },
+        {
+          "id": "07-rotation-de-tronc",
+          "number": "07",
+          "title": "Rotation de tronc",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/07 - Rotation de tronc/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "07 - Rotation de tronc"
+        },
+        {
+          "id": "08-protraction-des-omoplates",
+          "number": "08",
+          "title": "Protraction des omoplates",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/08 - Protraction des omoplates/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "08 - Protraction des omoplates"
+        },
+        {
+          "id": "09-etirements-massages-du-dos",
+          "number": "09",
+          "title": "Étirements & massages du dos",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/09 - Étirements & massages du dos/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "09 - Étirements & massages du dos"
+        },
+        {
+          "id": "10-rotation-interne-des-epaules",
+          "number": "10",
+          "title": "Rotation interne des épaules",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/10 - Rotation interne des épaules/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "10 - Rotation interne des épaules"
+        },
+        {
+          "id": "11-rotation-externe-des-epaules",
+          "number": "11",
+          "title": "Rotation externe des épaules",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/11 - Rotation externe des épaules/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "11 - Rotation externe des épaules"
+        },
+        {
+          "id": "12-activation-des-quadriceps",
+          "number": "12",
+          "title": "Activation des quadriceps",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/12 - Activation des quadriceps/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "12 - Activation des quadriceps"
+        },
+        {
+          "id": "13-activation-des-ischios",
+          "number": "13",
+          "title": "Activation des ischios",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/13 - Activation des ischios/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "13 - Activation des ischios"
+        },
+        {
+          "id": "14-activation-des-grands-ronds",
+          "number": "14",
+          "title": "Activation des grands ronds",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/14 - Activation des grands ronds/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1muC-Sn4dMqUbFabEVnuO-3OZDcQ3oLQX",
+          "textFile": null,
+          "dir": "14 - Activation des grands ronds"
+        },
+        {
+          "id": "15-activation-des-fessiers-squeeze-glutes",
+          "number": "15",
+          "title": "Activation des fessiers (squeeze glutes)",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/07 - MOBILITÉ & ACTIVATION/15 - Activation des fessiers (squeeze glutes)/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1n0bqqbpuQd6ZxlKKNRGUnmCGKxWkDlpT",
+          "textFile": null,
+          "dir": "15 - Activation des fessiers (squeeze glutes)"
+        }
+      ]
+    },
+    {
+      "id": "08-vacuum",
+      "number": "08",
+      "title": "VACUUM",
+      "description": "Grâce à ce module, tu auras le vacuum à CBum !",
+      "level": null,
+      "coverImage": "/content/covers/08.jpg",
+      "totalLessons": 6,
+      "lessons": [
+        {
+          "id": "01-introduction-au-module-du-vacuum",
+          "number": "01",
+          "title": "Introduction au module du vacuum",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/08 - VACUUM/01 - Introduction au module du vacuum/content.md",
+          "videoFile": "https://stream.video.skool.com/gDue02bIjSvz4ALHycWzD6REW02fj5i7AbWv2knkcjq3M.m3u8?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ2IiwiZXhwIjoxNzgyMTgzMzU1LCJraWQiOiJPVjIwMHZ6SWZuZFVCNHdXdTAxbDRjb0hrYTVQQUd3TlYwMEtZSkJrQkppVlFrIiwicGxheWJhY2tfcmVzdHJpY3Rpb25faWQiOiIzMDJ2dXNuVG1lbW1QSzllOUpMaWxaUmpnVkJ3T2hTNlVLdGkyWnhJS2V1WSIsInN1YiI6ImdEdWUwMmJJalN2ejRBTEh5Y1d6RDZSRVcwMmZqNWk3QWJXdjJrbmtjanEzTSJ9.jGws7ps6iv6gCsg92PahVo_y4F3J1u1YMkWpyPLN0zqmAgT7e0i4cjRLSG3n2EJubQKPJEUuCL8A9kYy1wn5mrFmSmwuzje20YLKwjsjjJ5oSrwotw8XBbyRxRwaaeLuiObhyrL5p-z9XNFPyy-yiQZf2Er0Nf5unwcFT4Cavcz65q4HvCLa-sQRC6ofVG2BIhQMoiWpZvtA9dpuPS1cmgedR9nEqWlk-8okApCrFuRuf_olgmOOyB-JytUz-n0u3FWWAFANSzg4-GvCiKe8mijwqDvHcyExhjzC-loMCVy_pjEpHxTYBJZBQOOKXgBdp2EolALzOv1O00rTWv5-qg",
+          "textFile": null,
+          "dir": "01 - Introduction au module du vacuum"
+        },
+        {
+          "id": "02-questionnaire-d-amelioration-du-module",
+          "number": "02",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/08 - VACUUM/02 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "03-tout-savoir-sur-le-vacuum",
+          "number": "03",
+          "title": "Tout savoir sur le vacuum",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/08 - VACUUM/03 - Tout savoir sur le vacuum/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=10Wt0_NrXZDNhE8MZ55WLPCzw21Xo4NHh",
+          "textFile": null,
+          "dir": "03 - Tout savoir sur le vacuum"
+        },
+        {
+          "id": "04-periodisation-vacuum",
+          "number": "04",
+          "title": "Périodisation vacuum",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/08 - VACUUM/04 - Périodisation vacuum/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "04 - Périodisation vacuum"
+        },
+        {
+          "id": "05-static-vacuum-first-step",
+          "number": "05",
+          "title": "Static vacuum - First step",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/08 - VACUUM/05 - Static vacuum - First step/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - Static vacuum - First step"
+        },
+        {
+          "id": "06-vacuum-dynamique-second-step",
+          "number": "06",
+          "title": "Vacuum dynamique - Second step",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/08 - VACUUM/06 - Vacuum dynamique - Second step/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "06 - Vacuum dynamique - Second step"
+        }
+      ]
+    },
+    {
+      "id": "09-corrections-quotidiennes",
+      "number": "09",
+      "title": "CORRECTIONS QUOTIDIENNES",
+      "description": "Je corrige 3 de vos poses quotidiennement !",
+      "level": null,
+      "coverImage": "/content/covers/09.jpg",
+      "totalLessons": 0,
+      "lessons": []
+    },
+    {
+      "id": "10-ressources-exclusives",
+      "number": "10",
+      "title": "RESSOURCES EXCLUSIVES",
+      "description": "Rediffusion live, séminaires, intervenants VIP, documents de posing…",
+      "level": null,
+      "coverImage": "/content/covers/10.jpg",
+      "totalLessons": 6,
+      "lessons": [
+        {
+          "id": "01-questionnaire-d-amelioration-du-module",
+          "number": "01",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/10 - RESSOURCES EXCLUSIVES/01 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "01 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "02-posing-note-carnet-de-posing",
+          "number": "02",
+          "title": "📝 Posing note (carnet de posing)",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/10 - RESSOURCES EXCLUSIVES/02 - 📝 Posing note (carnet de posing)/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1fFSIsSQtGVi_cH4AVWfTl0VVeqsXP8F3",
+          "textFile": null,
+          "dir": "02 - 📝 Posing note (carnet de posing)"
+        },
+        {
+          "id": "03-rediffusion-live-posing-class",
+          "number": "03",
+          "title": "🖥️ Rediffusion live - Posing class",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/10 - RESSOURCES EXCLUSIVES/03 - 🖥️ Rediffusion live - Posing class/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "03 - 🖥️ Rediffusion live - Posing class"
+        },
+        {
+          "id": "04-rediffusions-seminaires",
+          "number": "04",
+          "title": "📹 Rediffusions séminaires",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/10 - RESSOURCES EXCLUSIVES/04 - 📹 Rediffusions séminaires/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "04 - 📹 Rediffusions séminaires"
+        },
+        {
+          "id": "05-podcast-vip",
+          "number": "05",
+          "title": "🎙️ Podcast VIP",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/10 - RESSOURCES EXCLUSIVES/05 - 🎙️ Podcast VIP/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - 🎙️ Podcast VIP"
+        },
+        {
+          "id": "06-les-partenariats-posing-empire",
+          "number": "06",
+          "title": "💸 Les partenariats POSING EMPIRE",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/10 - RESSOURCES EXCLUSIVES/06 - 💸 Les partenariats POSING EMPIRE/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "06 - 💸 Les partenariats POSING EMPIRE"
+        }
+      ]
+    },
+    {
+      "id": "11-accompagnement-1-1",
+      "number": "11",
+      "title": "ACCOMPAGNEMENT 1:1",
+      "description": "Module exclusivement dédié aux membres de mon accompagnement 1:1 💎",
+      "level": null,
+      "coverImage": "/content/covers/11.jpg",
+      "totalLessons": 11,
+      "lessons": [
+        {
+          "id": "01-le-mindset-de-winner",
+          "number": "01",
+          "title": "🏆 Le mindset de winner",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/01 - 🏆 Le mindset de winner/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1gWIFCz1QVaos-TfyZNSOJNEnEtRKubKp",
+          "textFile": null,
+          "dir": "01 - 🏆 Le mindset de winner"
+        },
+        {
+          "id": "02-presentation-accompagnement",
+          "number": "02",
+          "title": "👋🏼 Présentation accompagnement",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/02 - 👋🏼 Présentation accompagnement/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "02 - 👋🏼 Présentation accompagnement"
+        },
+        {
+          "id": "03-questionnaire-d-amelioration-du-module",
+          "number": "03",
+          "title": "📋 Questionnaire d’amélioration du module",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/03 - 📋 Questionnaire d’amélioration du module/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "03 - 📋 Questionnaire d’amélioration du module"
+        },
+        {
+          "id": "04-reglement-accompagnement",
+          "number": "04",
+          "title": "🙏 Règlement accompagnement",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/04 - 🙏 Règlement accompagnement/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "04 - 🙏 Règlement accompagnement"
+        },
+        {
+          "id": "05-habitudes-quotidienne-a-apprendre",
+          "number": "05",
+          "title": "🔄 Habitudes quotidienne à apprendre",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/05 - 🔄 Habitudes quotidienne à apprendre/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "05 - 🔄 Habitudes quotidienne à apprendre"
+        },
+        {
+          "id": "06-preparer-nos-seances-de-coaching",
+          "number": "06",
+          "title": "✅ Préparer nos séances de coaching",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/06 - ✅ Préparer nos séances de coaching/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1K9MXPY8Oagzgj11xLeeX7BTrXMewuZCa",
+          "textFile": null,
+          "dir": "06 - ✅ Préparer nos séances de coaching"
+        },
+        {
+          "id": "07-bien-faire-ses-bilans",
+          "number": "07",
+          "title": "📈 Bien faire ses bilans",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/07 - 📈 Bien faire ses bilans/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=10qnDMmYJopqcPbjlnwVipBgKLWFT-_dx",
+          "textFile": null,
+          "dir": "07 - 📈 Bien faire ses bilans"
+        },
+        {
+          "id": "08-le-document-de-suivi",
+          "number": "08",
+          "title": "📝 Le document de suivi",
+          "type": "video",
+          "hasVideo": true,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/08 - 📝 Le document de suivi/content.md",
+          "videoFile": "https://docs.google.com/uc?export=download&id=1R7rB0EsoePI42xAMdemUWwZq4SEC3l2H",
+          "textFile": null,
+          "dir": "08 - 📝 Le document de suivi"
+        },
+        {
+          "id": "09-mise-en-relation",
+          "number": "09",
+          "title": "👥 Mise en relation",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/09 - 👥 Mise en relation/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "09 - 👥 Mise en relation"
+        },
+        {
+          "id": "10-je-reponds-a-toutes-vos-questions",
+          "number": "10",
+          "title": "❓ Je réponds à toutes vos questions",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/10 - ❓ Je réponds à toutes vos questions/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "10 - ❓ Je réponds à toutes vos questions"
+        },
+        {
+          "id": "11-rediffusion-appels-de-groupe-vip",
+          "number": "11",
+          "title": "💻 Rediffusion appels de groupe VIP",
+          "type": "text",
+          "hasVideo": false,
+          "contentFile": "/content/11 - ACCOMPAGNEMENT 1:1/11 - 💻 Rediffusion appels de groupe VIP/content.md",
+          "videoFile": null,
+          "textFile": null,
+          "dir": "11 - 💻 Rediffusion appels de groupe VIP"
+        }
+      ]
+    }
+  ]
+}
