@@ -64,7 +64,8 @@ export function App() {
         {/* Main Content Area */}
         <main className="flex-1">
           <Routes>
-            <Route path="/" element={<CommunityPage contentMap={contentMap} />} />
+            {/* <Route path="/" element={<CommunityPage contentMap={contentMap} />} /> */}
+            <Route path="/" element={<ClassroomPage contentMap={contentMap} />} />
             <Route path="/classroom" element={<ClassroomPage contentMap={contentMap} />} />
             <Route path="/module/:id" element={<ModulePage contentMap={contentMap} />} />
             <Route path="/module/:id/lesson/:lessonId" element={<LessonPage contentMap={contentMap} />} />

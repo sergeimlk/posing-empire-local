@@ -98,6 +98,7 @@ export function Navbar({ contentMap, theme, setTheme }) {
 
             {/* Middle Side: Tabs Navigation (Skool Style) */}
             <div className="flex items-center h-full gap-1 sm:gap-4 md:gap-6">
+              {/* Commented out Community Tab to avoid mixing project data
               <NavLink
                 to="/"
                 className={({ isActive }) =>
@@ -110,12 +111,14 @@ export function Navbar({ contentMap, theme, setTheme }) {
               >
                 Communauté
               </NavLink>
+              */}
 
               <NavLink
-                to="/classroom"
+                to="/"
                 className={({ isActive }) =>
                   `flex items-center h-16 px-2 sm:px-3 text-xs sm:text-sm font-semibold border-b-2 transition-all ${
-                    isActive
+                    // Highlight tab if active route is '/' or starts with '/classroom' or '/module'
+                    isActive || window.location.pathname.startsWith('/module') || window.location.pathname === '/classroom'
                       ? 'border-gold-500 text-gold-400 font-bold'
                       : 'border-transparent text-text-secondary hover:text-white hover:border-border-hover'
                   }`
