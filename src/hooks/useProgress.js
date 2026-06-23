@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react';
 export function useProgress() {
   const [progress, setProgress] = useState(() => {
     try {
-      const saved = localStorage.getItem('su-skool-progress');
+      const saved = localStorage.getItem('pe-skool-progress');
       return saved ? JSON.parse(saved) : {};
     } catch {
       return {};
@@ -18,7 +18,7 @@ export function useProgress() {
     setProgress((prev) => {
       const updated = { ...prev, [lessonId]: !prev[lessonId] };
       try {
-        localStorage.setItem('su-skool-progress', JSON.stringify(updated));
+        localStorage.setItem('pe-skool-progress', JSON.stringify(updated));
       } catch (err) {
         console.error('Error saving progress to localStorage', err);
       }
@@ -30,7 +30,7 @@ export function useProgress() {
     setProgress((prev) => {
       const updated = { ...prev, [lessonId]: !!completed };
       try {
-        localStorage.setItem('su-skool-progress', JSON.stringify(updated));
+        localStorage.setItem('pe-skool-progress', JSON.stringify(updated));
       } catch (err) {
         console.error('Error saving progress to localStorage', err);
       }

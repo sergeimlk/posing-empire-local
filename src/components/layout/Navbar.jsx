@@ -68,8 +68,6 @@ export function Navbar({ contentMap, theme, setTheme }) {
 
   const handleResetProgress = () => {
     localStorage.removeItem('pe-skool-progress');
-    // also clear P-E progress if any
-    localStorage.removeItem('pe-skool-progress');
     window.location.reload();
   };
 
